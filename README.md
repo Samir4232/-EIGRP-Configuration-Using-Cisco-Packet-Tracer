@@ -1,4 +1,4 @@
-# 🌐 LAB 38 - EIGRP Configuration Using Cisco Packet Tracer
+# 🌐 EIGRP Configuration Using Cisco Packet Tracer
 
 ## 🎯 Objective
 
@@ -346,3 +346,7 @@ show running-config | section eigrp
 # ✅ Result
 
 Successfully configured EIGRP Autonomous System 10 on four Cisco 2911 routers. The routers dynamically exchanged routing information and established neighbor relationships, allowing communication between the `192.168.10.0/24` and `192.168.20.0/24` networks through redundant paths with automatic route selection based on EIGRP metrics. 🚀
+
+## Network Topology
+
+![Enterprise Network Topology](topology-screenshot.png)
